@@ -17,13 +17,20 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Bernardstanislas/eslint-plugin-require-jsdoc"
+    "url": "git+https://github.com/Bernardstanislas/eslint-plugin-require-jsdoc.git"
   },
   "author": "Ratheesh Naithalath",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "istanbul": "~0.3.13",
     "shelljs": "^0.3.0",
     "mocha": "~2.2.4"
+  },
+  "bugs": {
+    "url": "https://github.com/Bernardstanislas/eslint-plugin-require-jsdoc/issues"
+  },
+  "homepage": "https://github.com/Bernardstanislas/eslint-plugin-require-jsdoc#readme",
+  "directories": {
+    "test": "tests"
   }
 }
