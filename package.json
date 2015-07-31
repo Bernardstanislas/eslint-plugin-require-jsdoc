@@ -1,6 +1,6 @@
 {
-  "name": "eslint-plugin-require-jsdoc",
-  "version": "1.0.4",
+  "name": "eslint-plugin-require-jsdoc-focus",
+  "version": "0.1.0",
   "description": "require jsdoc eslint plugin",
   "main": "index.js",
   "scripts": {
@@ -12,11 +12,12 @@
   "keywords": [
     "eslint",
     "eslint-plugin",
-    "eslintplugin"
+    "eslintplugin",
+    "plugin"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nrsedat/eslint-plugin-require-jsdoc"
+    "url": "https://github.com/Bernardstanislas/eslint-plugin-require-jsdoc"
   },
   "author": "Ratheesh Naithalath",
   "license": "ISC",
