@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-require-jsdoc-focus",
+  "name": "eslint-plugin-require-jsdoc",
   "version": "0.1.0",
   "description": "require jsdoc eslint plugin",
   "main": "index.js",
